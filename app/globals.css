@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f7f3ec;
+  color: #1a1917;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Thin, elegant scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #d8d1c4;
+  border-radius: 999px;
+  border: 3px solid #f7f3ec;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c3bba9;
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-[1240px] px-5 sm:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-cobalt focus-visible:ring-offset-2 focus-visible:ring-offset-cream;
+  }
+  .btn-primary {
+    @apply btn bg-cobalt text-white hover:bg-cobalt-dark hover:shadow-float active:scale-[0.98];
+  }
+  .btn-dark {
+    @apply btn bg-ink text-cream hover:bg-ink-soft active:scale-[0.98];
+  }
+  .btn-outline {
+    @apply btn border border-ink/15 bg-white/70 text-ink hover:border-ink/40 hover:bg-white active:scale-[0.98];
+  }
+  .btn-ghost {
+    @apply btn text-ink/70 hover:bg-ink/5 hover:text-ink;
+  }
+
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-[0.22em] text-ink-muted;
+  }
+
+  .card {
+    @apply rounded-3xl border border-ink/[0.06] bg-white shadow-card;
+  }
+
+  .chip {
+    @apply inline-flex items-center rounded-full px-3.5 py-1.5 text-xs font-semibold transition-colors duration-200;
+  }
+
+  .input {
+    @apply w-full rounded-2xl border border-ink/15 bg-white px-4 py-3 text-sm text-ink placeholder:text-ink-muted/70 outline-none transition focus:border-cobalt focus:ring-2 focus:ring-cobalt/15;
+  }
+
+  .label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wide text-ink-muted;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

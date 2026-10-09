@@ -1,0 +1,62 @@
+[
+  {
+    "id": "t1",
+    "creatorId": "c2",
+    "name": "Kabir Oberoi",
+    "username": "kairo.fits",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+    "outfit": "After Dark",
+    "lastTime": "2m",
+    "unread": 2,
+    "messages": [
+      { "id": "m1", "from": "them", "text": "Hey! Thanks for renting After Dark 🖤", "time": "10:02" },
+      { "id": "m2", "from": "me", "text": "Is the jacket available in M?", "time": "10:04" },
+      { "id": "m3", "from": "them", "text": "Yes, M is in stock and freshly cleaned.", "time": "10:05" },
+      { "id": "m4", "from": "me", "text": "Perfect. Can I pick it up on Friday?", "time": "10:06" },
+      { "id": "m5", "from": "them", "text": "Friday after 4pm works great. I'll share the address.", "time": "10:07" }
+    ]
+  },
+  {
+    "id": "t2",
+    "creatorId": "c3",
+    "name": "Meher Kapoor",
+    "username": "studio.meher",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+    "outfit": "Date Night",
+    "lastTime": "1h",
+    "unread": 0,
+    "messages": [
+      { "id": "m6", "from": "me", "text": "Hi! When should I return the outfit?", "time": "09:15" },
+      { "id": "m7", "from": "them", "text": "Anytime before 8pm on the 20th is fine 🙂", "time": "09:20" },
+      { "id": "m8", "from": "me", "text": "Got it, thank you!", "time": "09:21" }
+    ]
+  },
+  {
+    "id": "t3",
+    "creatorId": "c1",
+    "name": "Anaya Rao",
+    "username": "by.anaya",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "outfit": "Classic Layers",
+    "lastTime": "2d",
+    "unread": 0,
+    "messages": [
+      { "id": "m9", "from": "them", "text": "Hope you loved Classic Layers! Would mean a lot if you left a review ✨", "time": "Mon" },
+      { "id": "m10", "from": "me", "text": "Absolutely, already did! Such a great fit.", "time": "Mon" }
+    ]
+  },
+  {
+    "id": "t4",
+    "creatorId": "c4",
+    "name": "Jatin Mehra",
+    "username": "jatin.wears",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "outfit": "Weekend Denim",
+    "lastTime": "4d",
+    "unread": 0,
+    "messages": [
+      { "id": "m11", "from": "me", "text": "Is Weekend Denim free next weekend?", "time": "Thu" },
+      { "id": "m12", "from": "them", "text": "It is! Want me to hold it for you?", "time": "Thu" }
+    ]
+  }
+]
