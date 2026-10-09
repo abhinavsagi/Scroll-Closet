@@ -1,0 +1,146 @@
+[
+  {
+    "id": "o1",
+    "name": "Campus Essential",
+    "category": "Campus",
+    "pricePerDay": 299,
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c1",
+    "available": true,
+    "sizes": ["XS", "S", "M", "L"],
+    "likes": 128,
+    "rentals": 14,
+    "description": "Relaxed oversized shirt layered over a classic tee. Effortless for lectures, library runs and everything between.",
+    "pickup": "Both",
+    "comments": [
+      { "id": "cm1", "user": "ananyaa", "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=120&q=80", "text": "This is such a vibe for 9am classes 😍", "time": "2h" },
+      { "id": "cm2", "user": "devk", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80", "text": "Is the fit true to size?", "time": "45m" }
+    ]
+  },
+  {
+    "id": "o2",
+    "name": "Street Chic",
+    "category": "Streetwear",
+    "pricePerDay": 349,
+    "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c2",
+    "available": true,
+    "sizes": ["S", "M", "L", "XL"],
+    "likes": 342,
+    "rentals": 31,
+    "description": "A sharp streetwear set with structured layers and a bold silhouette. Made to be photographed.",
+    "pickup": "Delivery",
+    "comments": [
+      { "id": "cm3", "user": "mehak", "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80", "text": "Wore this to a gig, got stopped twice for photos", "time": "1d" }
+    ]
+  },
+  {
+    "id": "o3",
+    "name": "Date Night",
+    "category": "Date Night",
+    "pricePerDay": 499,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c3",
+    "available": false,
+    "sizes": ["XS", "S", "M"],
+    "likes": 489,
+    "rentals": 22,
+    "description": "A slip of silk with a tailored overlay. Quietly dramatic, perfect for dinner reservations you want to remember.",
+    "pickup": "Both",
+    "comments": []
+  },
+  {
+    "id": "o4",
+    "name": "Classic Layers",
+    "category": "Casual",
+    "pricePerDay": 399,
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c1",
+    "available": true,
+    "sizes": ["S", "M", "L"],
+    "likes": 201,
+    "rentals": 18,
+    "description": "Neutral tailoring with a soft knit base. Transitions from brunch to the gallery without a second thought.",
+    "pickup": "Pickup",
+    "comments": [
+      { "id": "cm4", "user": "riya.w", "avatar": "https://images.unsplash.com/photo-1554151228-14d9def656e4?auto=format&fit=crop&w=120&q=80", "text": "The coat is even better in person", "time": "3d" }
+    ]
+  },
+  {
+    "id": "o5",
+    "name": "Weekend Denim",
+    "category": "Casual",
+    "pricePerDay": 329,
+    "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c4",
+    "available": true,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "likes": 167,
+    "rentals": 25,
+    "description": "Lived-in denim on denim with the perfect worn-in fade. Easy, honest, endlessly wearable.",
+    "pickup": "Both",
+    "comments": []
+  },
+  {
+    "id": "o6",
+    "name": "After Dark",
+    "category": "Party",
+    "pricePerDay": 599,
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c2",
+    "available": true,
+    "sizes": ["S", "M", "L"],
+    "likes": 612,
+    "rentals": 40,
+    "description": "A statement party look built on clean lines and a little shine. For the nights that deserve an entrance.",
+    "pickup": "Delivery",
+    "comments": [
+      { "id": "cm5", "user": "noorh", "avatar": "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?auto=format&fit=crop&w=120&q=80", "text": "Renting this for NYE for sure", "time": "5h" }
+    ]
+  },
+  {
+    "id": "o7",
+    "name": "Heritage Weave",
+    "category": "Traditional",
+    "pricePerDay": 549,
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c3",
+    "available": true,
+    "sizes": ["S", "M", "L"],
+    "likes": 278,
+    "rentals": 12,
+    "description": "Handwoven textile with contemporary tailoring. Festive, grounded, and quietly luxurious.",
+    "pickup": "Both",
+    "comments": []
+  },
+  {
+    "id": "o8",
+    "name": "Court Side",
+    "category": "Streetwear",
+    "pricePerDay": 289,
+    "image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c4",
+    "available": true,
+    "sizes": ["M", "L", "XL"],
+    "likes": 143,
+    "rentals": 9,
+    "description": "Varsity-inspired layers with a sporty edge. Built for the walk and the warm-up.",
+    "pickup": "Pickup",
+    "comments": []
+  },
+  {
+    "id": "o9",
+    "name": "Golden Hour",
+    "category": "Date Night",
+    "pricePerDay": 459,
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=80",
+    "creatorId": "c1",
+    "available": true,
+    "sizes": ["XS", "S", "M"],
+    "likes": 321,
+    "rentals": 17,
+    "description": "Warm tones and flowing fabric that catch the light. Romantic without trying too hard.",
+    "pickup": "Both",
+    "comments": []
+  }
+]

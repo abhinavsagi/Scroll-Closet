@@ -1,0 +1,67 @@
+[
+  {
+    "id": "r1",
+    "outfitId": "o6",
+    "outfitName": "After Dark",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=600&q=80",
+    "creatorId": "c2",
+    "creator": "kairo.fits",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-11",
+    "returnDate": "2026-10-11",
+    "amount": 2995,
+    "status": "Current"
+  },
+  {
+    "id": "r2",
+    "outfitId": "o3",
+    "outfitName": "Date Night",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=600&q=80",
+    "creatorId": "c3",
+    "creator": "studio.meher",
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-20",
+    "returnDate": "2026-10-20",
+    "amount": 998,
+    "status": "Upcoming"
+  },
+  {
+    "id": "r3",
+    "outfitId": "o7",
+    "outfitName": "Heritage Weave",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80",
+    "creatorId": "c3",
+    "creator": "studio.meher",
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-28",
+    "returnDate": "2026-10-28",
+    "amount": 1647,
+    "status": "Upcoming"
+  },
+  {
+    "id": "r4",
+    "outfitId": "o1",
+    "outfitName": "Campus Essential",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=600&q=80",
+    "creatorId": "c1",
+    "creator": "by.anaya",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-15",
+    "returnDate": "2026-09-15",
+    "amount": 897,
+    "status": "Completed"
+  },
+  {
+    "id": "r5",
+    "outfitId": "o2",
+    "outfitName": "Street Chic",
+    "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=600&q=80",
+    "creatorId": "c2",
+    "creator": "kairo.fits",
+    "startDate": "2026-08-30",
+    "endDate": "2026-09-02",
+    "returnDate": "2026-09-02",
+    "amount": 1047,
+    "status": "Completed"
+  }
+]

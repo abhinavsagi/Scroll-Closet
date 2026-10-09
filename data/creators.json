@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c1",
+    "username": "by.anaya",
+    "name": "Anaya Rao",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "cover": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1400&q=80",
+    "bio": "Minimalist wardrobe, maximal rotation. I lend out the pieces I love so they get worn more.",
+    "followers": 12400,
+    "totalOutfits": 24,
+    "rating": 4.9,
+    "earnings": 48200,
+    "location": "Bengaluru"
+  },
+  {
+    "id": "c2",
+    "username": "kairo.fits",
+    "name": "Kabir Oberoi",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+    "cover": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=1400&q=80",
+    "bio": "Streetwear archivist. Everything in my closet has a second, third and fourth life.",
+    "followers": 28900,
+    "totalOutfits": 41,
+    "rating": 4.8,
+    "earnings": 93400,
+    "location": "Mumbai"
+  },
+  {
+    "id": "c3",
+    "username": "studio.meher",
+    "name": "Meher Kapoor",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+    "cover": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1400&q=80",
+    "bio": "Occasionwear you borrow, not buy. Weddings, dinners, debuts — dressed and returned.",
+    "followers": 19600,
+    "totalOutfits": 32,
+    "rating": 5.0,
+    "earnings": 71800,
+    "location": "Delhi"
+  },
+  {
+    "id": "c4",
+    "username": "jatin.wears",
+    "name": "Jatin Mehra",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "cover": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=1400&q=80",
+    "bio": "Denim, basics and dependable everyday fits. Simple pieces, well kept, shared often.",
+    "followers": 8700,
+    "totalOutfits": 18,
+    "rating": 4.7,
+    "earnings": 29600,
+    "location": "Pune"
+  }
+]
